@@ -12,3 +12,6 @@ sebelum menggunakan pastikan sudah terinstall liblarry firebase di arduino
 https://github.com/mobizt/Firebase-ESP8266
 dan pastikan juga terinstall liblarry lcdnya untuk nodemcu disini
 https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+
+ini adalah alamat web yang saya sarankan untuk update malam ini
+https://randomnerdtutorials.com/esp8266-nodemcu-client-server-wi-fi/

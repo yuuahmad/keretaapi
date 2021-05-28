@@ -15,3 +15,6 @@ https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 
 ini adalah alamat web yang saya sarankan untuk update malam ini
 https://randomnerdtutorials.com/esp8266-nodemcu-client-server-wi-fi/
+
+dan ini adalah link tutorial cara komunikasi menggunakan satu analog pin 
+https://create.arduino.cc/projecthub/e_s_c/how-to-read-multiple-analog-values-using-one-analog-pin-f5f6db
